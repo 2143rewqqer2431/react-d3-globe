@@ -1,0 +1,260 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.3613558, -8.8044875]
+      },
+      "properties": {
+        "iconUrl": "https://eltes.com.tr/wp-content/uploads/2017/03/red-location-icon-map-png-4.png",
+        "detected": true,
+        "Ordem": "193",
+        "Eixo": "Leste",
+        "Meta": "1L",
+        "Municipio": "Petrolândia",
+        "Estado": "PE",
+        "Nome da Comunidade": "Agrovila 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.3445892, -8.7940031]
+      },
+      "properties": {
+        "iconUrl": "https://eltes.com.tr/wp-content/uploads/2017/03/red-location-icon-map-png-4.png",
+        "detected": true,
+        "Ordem": "194",
+        "Eixo": "Leste",
+        "Meta": "1L",
+        "Municipio": "Petrolândia / Floresta",
+        "Estado": "PE",
+        "Nome da Comunidade": "Agrovila 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.866287, 39.925533]
+      },
+      "properties": {
+        "iconUrl": "https://eltes.com.tr/wp-content/uploads/2017/03/red-location-icon-map-png-4.png",
+        "detected": true,
+        "Ordem": "194",
+        "Eixo": "Leste",
+        "Meta": "1L",
+        "Municipio": "Petrolândia / Floresta",
+        "Estado": "PE",
+        "Nome da Comunidade": "Agrovila 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.032669, 41.032921]
+      },
+      "properties": {
+        "iconUrl": "https://eltes.com.tr/wp-content/uploads/2017/03/red-location-icon-map-png-4.png",
+        "detected": true,
+        "Ordem": "194",
+        "Eixo": "Leste",
+        "Meta": "1L",
+        "Municipio": "Petrolândia / Floresta",
+        "Estado": "PE",
+        "Nome da Comunidade": "Agrovila 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.021111, 41.108891]
+      },
+      "properties": {
+        "iconUrl": "https://eltes.com.tr/wp-content/uploads/2017/03/red-location-icon-map-png-4.png",
+        "detected": false,
+        "Ordem": "194",
+        "Eixo": "Leste",
+        "Meta": "1L",
+        "Municipio": "Petrolândia / Floresta",
+        "Estado": "PE",
+        "Nome da Comunidade": "Agrovila 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.970329, 41.038284]
+      },
+      "properties": {
+        "iconUrl": "https://eltes.com.tr/wp-content/uploads/2017/03/red-location-icon-map-png-4.png",
+        "detected": false,
+        "Ordem": "194",
+        "Eixo": "Leste",
+        "Meta": "1L",
+        "Municipio": "Petrolândia / Floresta",
+        "Estado": "PE",
+        "Nome da Comunidade": "Agrovila 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.215, 37.18111]
+      },
+      "properties": {
+        "iconUrl": "https://eltes.com.tr/wp-content/uploads/2017/03/red-location-icon-map-png-4.png",
+        "detected": false,
+        "Ordem": "194",
+        "Eixo": "Leste",
+        "Meta": "1L",
+        "Municipio": "Petrolândia / Floresta",
+        "Estado": "PE",
+        "Nome da Comunidade": "Agrovila 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.493156, 37.874641]
+      },
+      "properties": {
+        "iconUrl": "https://eltes.com.tr/wp-content/uploads/2017/03/red-location-icon-map-png-4.png",
+        "detected": false,
+        "Ordem": "194",
+        "Eixo": "Leste",
+        "Meta": "1L",
+        "Municipio": "Petrolândia / Floresta",
+        "Estado": "PE",
+        "Nome da Comunidade": "Agrovila 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.831015, 40.021062]
+      },
+      "properties": {
+        "iconUrl": "https://eltes.com.tr/wp-content/uploads/2017/03/red-location-icon-map-png-4.png",
+        "detected": true,
+        "Ordem": "194",
+        "Eixo": "Leste",
+        "Meta": "1L",
+        "Municipio": "Petrolândia / Floresta",
+        "Estado": "PE",
+        "Nome da Comunidade": "Agrovila 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.0465, 34.8149]
+      },
+      "properties": {
+        "iconUrl": "https://eltes.com.tr/wp-content/uploads/2017/03/red-location-icon-map-png-4.png",
+        "detected": false,
+        "Ordem": "194",
+        "Eixo": "Leste",
+        "Meta": "1L",
+        "Municipio": "Petrolândia / Floresta",
+        "Estado": "PE",
+        "Nome da Comunidade": "Agrovila 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.620407, 55.754093]
+      },
+      "properties": {
+        "iconUrl": "https://eltes.com.tr/wp-content/uploads/2017/03/red-location-icon-map-png-4.png",
+        "detected": false,
+        "Ordem": "194",
+        "Eixo": "Leste",
+        "Meta": "1L",
+        "Municipio": "Petrolândia / Floresta",
+        "Estado": "PE",
+        "Nome da Comunidade": "Agrovila 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.421, -32.415861]
+      },
+      "properties": {
+        "iconUrl": "https://eltes.com.tr/wp-content/uploads/2017/03/red-location-icon-map-png-4.png",
+        "detected": false,
+        "Ordem": "194",
+        "Eixo": "Leste",
+        "Meta": "1L",
+        "Municipio": "Petrolândia / Floresta",
+        "Estado": "PE",
+        "Nome da Comunidade": "Agrovila 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.421, -2.415861]
+      },
+      "properties": {
+        "iconUrl": "https://eltes.com.tr/wp-content/uploads/2017/03/red-location-icon-map-png-4.png",
+        "detected": true,
+        "Ordem": "194",
+        "Eixo": "Leste",
+        "Meta": "1L",
+        "Municipio": "Petrolândia / Floresta",
+        "Estado": "PE",
+        "Nome da Comunidade": "Agrovila 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.0, 50.0]
+      },
+      "properties": {
+        "iconUrl": "https://eltes.com.tr/wp-content/uploads/2017/03/red-location-icon-map-png-4.png",
+        "detected": true,
+        "Ordem": "194",
+        "Eixo": "Leste",
+        "Meta": "1L",
+        "Municipio": "Petrolândia / Floresta",
+        "Estado": "PE",
+        "Nome da Comunidade": "Agrovila 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.0, 40.0]
+      },
+      "properties": {
+        "iconUrl": "https://eltes.com.tr/wp-content/uploads/2017/03/red-location-icon-map-png-4.png",
+        "detected": false,
+        "Ordem": "194",
+        "Eixo": "Leste",
+        "Meta": "1L",
+        "Municipio": "Petrolândia / Floresta",
+        "Estado": "PE",
+        "Nome da Comunidade": "Agrovila 5"
+      }
+    }
+  ]
+}
